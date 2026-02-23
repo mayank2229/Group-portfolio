@@ -48,7 +48,7 @@ const members = [
     },
     { 
         id: 3, 
-        name: "Ashu Devi",
+        name: "Ashish Jat",
         role: "MCA (Cloud Technology & DevOps)",
         img: "ashishprofile.jpg",
         color: "#f87171", 
