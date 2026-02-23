@@ -8,7 +8,7 @@ app.use(express.static(__dirname));
 const members = [
     { 
         id: 1, 
-        name: "Lodu lalit",
+        name: "Lalit Kumar",
         role: "MCA (Cloud Technology)",
         img: "profile.jpg",
         color: "#38bdf8", 
