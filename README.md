@@ -83,12 +83,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-*(Add Jenkins pipeline, EC2 instance, and running app screenshots here)*
-
----
-
 ## 📌 Learning Outcomes
 
 * Hands-on experience with CI/CD pipelines
